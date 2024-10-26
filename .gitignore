@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+build
+*.pem
+sdkconfig
+.vscode
